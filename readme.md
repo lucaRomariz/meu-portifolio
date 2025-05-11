@@ -19,7 +19,7 @@ dentro desse repositório, você verá:
 ---
 
 ## Estrutura do portfólio
-´´´bash
+
 meu-portifolio/
 ├── projetos-academicos/   # Atividades e desafios desenvolvidos durante cursos
 ├── projetos-pessoais/     # Iniciativas próprias e experimentações
